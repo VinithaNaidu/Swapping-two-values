@@ -18,14 +18,14 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-#Program to swap two values. \n
-#Developed by: Aswinth T 
-#RegisterNumber:212222230015 
-n1,n2=input(),input() 
-temp = n2 
-n2 = n1 
-n1 = temp 
-print("Swapped values are:",n1,n2) 
+#Program to swap two values. <br>
+#Developed by: Aswinth T <br>
+#RegisterNumber:212222230015 <br>
+n1,n2=input(),input() <br>
+temp = n2 <br>
+n2 = n1 <br>
+n1 = temp <br>
+print("Swapped values are:",n1,n2) <br>
 
 
 ## OUTPUT:
