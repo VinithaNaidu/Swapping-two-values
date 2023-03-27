@@ -20,12 +20,13 @@ End the program
 ## PROGRAM:
 #Program to swap two values.
 #Developed by: Aswinth T
-#RegisterNumber: 212222230015
+#RegisterNumber:212222230015
 n1,n2=input(),input()
-temp=n2
-n2=n1
-n1=temp
+temp = n2
+n2 = n1
+n1 = temp
 print("Swapped values are:",n1,n2)
+
 
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/120236638/227963213-101f3c4a-de51-4ab7-831e-0a5f863d627d.png)
