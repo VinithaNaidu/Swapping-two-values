@@ -18,9 +18,6 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-#Program to swap two values. <br>
-#Developed by: Aswinth T <br>
-#RegisterNumber:212222230015 <br>
 n1,n2=input(),input() <br>
 temp = n2 <br>
 n2 = n1 <br>
