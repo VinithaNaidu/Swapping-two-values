@@ -29,7 +29,7 @@ print("Swapped values are:",n1,n2) <br>
 ![image](https://user-images.githubusercontent.com/120236638/227963213-101f3c4a-de51-4ab7-831e-0a5f863d627d.png)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
