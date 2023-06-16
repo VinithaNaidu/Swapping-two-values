@@ -26,7 +26,7 @@ print("Swapped values are:",n1,n2) <br>
 
 
 ## OUTPUT:
-![image](https://user-images.githubusercontent.com/120236638/227963213-101f3c4a-de51-4ab7-831e-0a5f863d627d.png)
+![image](https://github.com/gowrisankarponnusamy/Swapping-two-values/assets/119393123/741af28a-2c4c-42ea-ab45-8239fc8aa91f)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
